@@ -10,17 +10,17 @@ Our SQL analysis explores this relationship using key **mental health diagnostic
 ## 📊 Dataset Description
 The dataset includes various demographic and psychological attributes of international students, including:
 
-| Column Name  | Description |
+| Column Name | Description |
 |-------------|-------------|
 | `inter_dom` | Whether the student is international (`Inter`) or domestic (`Dom`) |
-| `region` | Region of origin (e.g., SEA, EA, SA, Others) |
-| `gender` | Gender (Male, Female) |
-| `academic` | Academic level (Undergraduate or Graduate) |
-| `age` | Age of the student |
-| `stay` | Length of stay in years |
-| `todep` | Total score of depression (PHQ-9 test) |
-| `tosc` | Total score of social connectedness (SCS test) |
-| `toas` | Total score of acculturative stress (ASISS test) |
+| `region`    | Region of origin (e.g., SEA, EA, SA, Others) |
+| `gender`    | Gender (Male, Female) |
+| `academic`  | Academic level (Undergraduate or Graduate) |
+| `age`       | Age of the student |
+| `stay`      | Length of stay in years |
+| `todep`     | Total score of depression (PHQ-9 test) |
+| `tosc`      | Total score of social connectedness (SCS test) |
+| `toas`      | Total score of acculturative stress (ASISS test) |
 
 ---
 
